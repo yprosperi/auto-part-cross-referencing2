@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Part Cross-Referencing Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Auto Part Cross-Referencing Tool</h1>
+
+        <!-- Search Form -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Enter Part Number or Vehicle Info">
+            
+            <!-- Sorting Dropdown -->
+            <select id="sortOption">
+                <option value="">Sort by...</option>
+                <option value="manufacturer">Manufacturer</option>
+                <option value="description">Description</option>
+            </select>
+
+            <button onclick="searchParts()">Search</button>
+        </div>
+
+        <!-- Results Section -->
+        <div class="results-container" id="resultsContainer">
+            <!-- Results will appear here -->
+        </div>
+    <script src="script.js"></script>
+</body>
+</html>

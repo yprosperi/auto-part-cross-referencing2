@@ -1,0 +1,111 @@
+/* Background and container style */
+.container {
+  background-color: #111; /* dark background for contrast */
+  color: white;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  padding: 20px;
+}
+
+/* Search box with racing theme */
+.search-box {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 12px 20px;
+  border-radius: 25px;
+  width: 60%;
+  max-width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.6);
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translateX(-50%);
+  border: 2px solid #ff5a5f; /* Subtle red border for a racing aesthetic */
+}
+
+.search-box input[type="text"] {
+  background: transparent;
+  border: none;
+  color: white;
+  outline: none;
+  flex: 1;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.search-box input[type="text"]:focus {
+  background-color: rgba(255, 255, 255, 0.3);
+  transform: scale(1.05);
+  border: 2px solid #ff5a5f; /* Focused border in red */
+}
+
+.search-box button {
+  background-color: #ff5a5f; /* Bright red for attention */
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.search-box button:hover {
+  background-color: #ff3b40;
+  transform: scale(1.05);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+/* Checkered background for results section */
+.results-box {
+  background: url('assets/checkered-background.png') repeat;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 60%;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.result-item {
+  background-color: #333; /* Darker background for items */
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  color: white;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.result-item:hover {
+  background-color: #444;
+}
+
+.result-item h3 {
+  color: #ff5a5f; /* Red for titles to match branding */
+}
+
+/* Add yellow highlights to important parts */
+.result-item p strong {
+  color: #ffdf00; /* Yellow for highlighted information like part number */
+}
+
+/* Back Button Styling */
+.back-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #ff5a5f;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.back-btn:hover {
+  background-color: #ff3b40;
+}

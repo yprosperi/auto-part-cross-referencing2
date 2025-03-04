@@ -1,0 +1,608 @@
+[
+    {
+        "Part Number": "31200-RX0-A02",
+        "Description": "Starter",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "06350-TR0-A61",
+        "Description": "Ignition Lock Assembly",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "12290-R40-A02",
+        "Description": "Spark Plug",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "31100-RX0-A01",
+        "Description": "Alternator",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "31110-RX0-A01",
+        "Description": "Serpentine Belt",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "17045-TR0-L32",
+        "Description": "Fuel Pump Assembly",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "17044-TR0-A70",
+        "Description": "Fuel Tank",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "17670-T3W-A01",
+        "Description": "Fuel Cap",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "16450-RNA-A01",
+        "Description": "Fuel Injector",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "91302-PNA-003",
+        "Description": "Injector O-Ring",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52320-SNA-A01",
+        "Description": "Suspension Stabilizer Bar Link",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52400-SNA-C00",
+        "Description": "Upper Control Arm RR",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52400-SNA-C00",
+        "Description": "Upper Control Arm RL",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "51350-SNA-A03",
+        "Description": "Lower Control Armt FR",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "51360-SNA-A03",
+        "Description": "Lower Control Armt FL",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52610-SNE-A03",
+        "Description": "Shock Absorber Rear",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "14401-RNA-A01",
+        "Description": "Timing Chain",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "15100-R1A-A01",
+        "Description": "Timing Cover",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "13010-RNA-A00",
+        "Description": "Piston",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "12341-RNA-A01",
+        "Description": "Valve Cover Gasket",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "12251-RNA-A02",
+        "Description": "Head Gasket",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19010-RNB-C51",
+        "Description": "Radiator Assembly",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19045-RAA-003",
+        "Description": "Radiator Cap",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19301-RNA-315",
+        "Description": "Thermostat",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19504-RNB-A01",
+        "Description": "Lower Hose",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19509-RNA-A01",
+        "Description": "Engine Coolant Hose",
+        "Manufacturer": "NAPA",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19218S",
+        "Description": "Starter",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "CS2",
+        "Description": "Ignition Lock Assembly",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "93175",
+        "Description": "Spark Plug",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "11604A",
+        "Description": "Alternator",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "825K6",
+        "Description": "Serpentine Belt",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "U2541355",
+        "Description": "Fuel Pump Assembly",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "7-062573",
+        "Description": "Fuel Tank",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "10834",
+        "Description": "Fuel Cap",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "A212-3654",
+        "Description": "Fuel Injector",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "ES 70599",
+        "Description": "Injector O-Ring",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "510-507819",
+        "Description": "Suspension Stabilizer Bar Link",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "RK643116",
+        "Description": "Upper Control Arm RR",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "RK100391",
+        "Description": "Upper Control Arm RL",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "810-690364B",
+        "Description": "Lower Control Armt FR",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "810-690363B",
+        "Description": "Lower Control Armt FL",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "5505",
+        "Description": "Shock Absorber Rear",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "9-0711SA",
+        "Description": "Timing Chain",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "M532",
+        "Description": "Timing Cover",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "036-1953",
+        "Description": "Valve Cover Gasket",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "26397 PT",
+        "Description": "Head Gasket",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "433986",
+        "Description": "Radiator Assembly",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "10242",
+        "Description": "Radiator Cap",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "13878",
+        "Description": "Thermostat",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "23342",
+        "Description": "Lower Hose",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "E72450",
+        "Description": "Engine Coolant Hose",
+        "Manufacturer": "Advance Auto Parts",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19218",
+        "Description": "Starter",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "LA10278",
+        "Description": "Ignition Lock Assembly",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "93175",
+        "Description": "Spark Plug",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "DLG10132",
+        "Description": "Alternator",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "K070667",
+        "Description": "Serpentine Belt",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "DFG1546",
+        "Description": "Fuel Pump Assembly",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "6817A",
+        "Description": "Fuel Cap",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "800-2083N",
+        "Description": "Fuel Injector",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "ES70599",
+        "Description": "Injector O-Ring",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "SL750604",
+        "Description": "Suspension Stabilizer Bar Link",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "CA4505",
+        "Description": "Upper Control Arm RR",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "CA4505",
+        "Description": "Upper Control Arm RL",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "CA12681",
+        "Description": "Lower Control Armt FR",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "CA12580",
+        "Description": "Lower Control Armt FL",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "TS32-39692B",
+        "Description": "Shock Absorber Rear",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "C743",
+        "Description": "Timing Chain",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "M-532",
+        "Description": "Timing Cover",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "036-1953",
+        "Description": "Valve Cover Gasket",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "54528",
+        "Description": "Head Gasket",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "A2922",
+        "Description": "Radiator Assembly",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "7037",
+        "Description": "Radiator Cap",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "15188",
+        "Description": "Thermostat",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "E72403",
+        "Description": "Lower Hose",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "E72450",
+        "Description": "Engine Coolant Hose",
+        "Manufacturer": "AutoZone",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "31200-RX0-A02",
+        "Description": "Starter",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "06350-TR0-A61",
+        "Description": "Ignition Lock Assembly",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "12290-R40-A02",
+        "Description": "Spark Plug",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "31100-RX0-A01",
+        "Description": "Alternator",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "31110-RX0-A01",
+        "Description": "Serpentine Belt",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "17045-TR0-L32",
+        "Description": "Fuel Pump Assembly",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "17044-TR0-A70",
+        "Description": "Fuel Tank",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "17670-T3W-A01",
+        "Description": "Fuel Cap",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "16450-RNA-A01",
+        "Description": "Fuel Injector",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "91302-PNA-003",
+        "Description": "Injector O-Ring",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52320-SNA-A01",
+        "Description": "Suspension Stabilizer Bar Link",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52400-SNA-C00",
+        "Description": "Upper Control Arm RR",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52400-SNA-C00",
+        "Description": "Upper Control Arm RL",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "51350-SNA-A03",
+        "Description": "Lower Control Armt FR",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "51360-SNA-A03",
+        "Description": "Lower Control Armt FL",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "52610-SNE-A03",
+        "Description": "Shock Absorber Rear",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "14401-RNA-A01",
+        "Description": "Timing Chain",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "15100-R1A-A01",
+        "Description": "Timing Cover",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "13010-RNA-A00",
+        "Description": "Piston",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "12341-RNA-A01",
+        "Description": "Valve Cover Gasket",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "12251-RNA-A02",
+        "Description": "Head Gasket",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19010-RNB-C51",
+        "Description": "Radiator Assembly",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19045-RAA-003",
+        "Description": "Radiator Cap",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19301-RNA-315",
+        "Description": "Thermostat",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19504-RNB-A01",
+        "Description": "Lower Hose",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    },
+    {
+        "Part Number": "19509-RNA-A01",
+        "Description": "Engine Coolant Hose",
+        "Manufacturer": "Honda Dealership",
+        "Vehicle": "2012 Honda Civic Si"
+    }
+]

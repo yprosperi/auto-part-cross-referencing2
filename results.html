@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Search Results</h1>
+
+        <!-- Loading Spinner -->
+        <div class="loading-spinner" id="loadingSpinner">
+            <p>Loading results...</p>
+        </div>
+
+        <!-- Results Box -->
+        <div class="results-box">
+            <div id="resultsContainer" aria-live="polite">
+                <!-- Search results will be displayed here -->
+            </div>
+        </div>
+
+        <a href="index.html" class="back-btn">Back to Search</a>
+    </div>
+
+    <script>
+        // Extract search query from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const searchQuery = urlParams.get('query');
+        const sortOption = urlParams.get('sort');
+
+        // Load JSON Data
+        fetch('https://raw.githubusercontent.com/yprosperi/auto-part-cross-referencing/main/assets/car_parts_data_updated.json')
+            .then(response => response.json())
+            .then(partsData => {
+                let filteredParts = partsData.filter(part => 
+                    part['Part Number'].toUpperCase().includes(searchQuery.toUpperCase()) ||
+                    part.Description.toUpperCase().includes(searchQuery.toUpperCase()) ||
+                    part.Manufacturer.toUpperCase().includes(searchQuery.toUpperCase()) ||
+                    part.Vehicle.toUpperCase().includes(searchQuery.toUpperCase())
+                );
+
+                // Apply sorting if selected
+                if (sortOption === 'manufacturer') {
+                    filteredParts.sort((a, b) => a.Manufacturer.localeCompare(b.Manufacturer));
+                } else if (sortOption === 'description') {
+                    filteredParts.sort((a, b) => a.Description.localeCompare(b.Description));
+                }
+
+                const resultsContainer = document.getElementById('resultsContainer');
+                const loadingSpinner = document.getElementById('loadingSpinner');
+
+                // Hide loading spinner when data is loaded
+                loadingSpinner.style.display = 'none';
+
+                resultsContainer.innerHTML = '';
+
+                if (filteredParts.length === 0) {
+                    resultsContainer.innerHTML = '<p>No results found. Please try refining your search.</p>';
+                    return;
+                }
+
+                const ul = document.createElement('ul');
+                filteredParts.forEach(part => {
+                    const li = document.createElement('li');
+                    li.classList.add('result-item');
+                    li.innerHTML = `
+                        <h3>${part.Description} (${part.Manufacturer})</h3>
+                        <p><strong>Part Number:</strong> ${part['Part Number']}</p>
+                        <p><strong>Vehicle:</strong> ${part.Vehicle}</p>
+                    `;
+                    ul.appendChild(li);
+                });
+                resultsContainer.appendChild(ul);
+            })
+            .catch(error => {
+                document.getElementById('resultsContainer').innerHTML = '<p>Error loading results. Please try again later.</p>';
+                console.error('Error:', error);
+            });
+    </script>
+</body>
+</html>
